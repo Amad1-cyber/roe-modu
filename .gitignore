@@ -1,0 +1,36 @@
+# Runtime data and secrets - never commit these
+accounts.json
+characters.json
+config.json
+modu.json
+status.json
+kill.txt
+*.log
+*.old
+tunnel.log
+cloudflared-config.yml
+*.pem
+*.key
+.cloudflared/
+credentials*.json
+
+# Downloaded tools / binaries
+tools/cloudflared.exe
+tools/*.exe
+*.exe
+*.dll
+*.rez
+*.ltb
+*.dtx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
