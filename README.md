@@ -23,7 +23,7 @@ timer, and a starter kit message. See **Limitations** below - this is a work in 
 
 ## Install and run
 ```
-git clone https://github.com/YOUR-USERNAME/roe-modu.git
+git clone https://github.com/Amad1-cyber/roe-modu.git
 cd roe-modu
 pythonw roe_modu.pyw
 ```
@@ -194,5 +194,6 @@ until verified in game.
 | "Login server unavailable" | Server not running -> press PLAY / Start server; or wrong login address. |
 | Stuck on "Requesting name verification" | Old server version; restart the server. |
 | Game won't start | Install the client at `C:\Program Files (x86)\Rubies of Eventide` or set the folder in `modu.json`. |
+
 
 
