@@ -1,4 +1,4 @@
-﻿import sys, re, struct
+import sys, re, struct
 sys.path.insert(0, sys.argv[1])
 import pefile, capstone
 pe = pefile.PE(r'C:\Program Files (x86)\Rubies of Eventide\rez\CShell.dll')

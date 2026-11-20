@@ -1,4 +1,4 @@
-﻿"""ROE MODU server: a clean-room emulator of the Rubies of Eventide 0.95 login + game server, written from observation of
+"""ROE MODU server: a clean-room emulator of the Rubies of Eventide 0.95 login + game server, written from observation of
 the client (CShell.dll) protocol. Not affiliated with the original operators.
 
 Protocol summary (all verified against the real client):

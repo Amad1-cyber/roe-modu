@@ -1,4 +1,4 @@
-﻿import re, struct, sys
+import re, struct, sys
 sys.path.insert(0, sys.argv[1])
 import pefile, capstone
 pe = pefile.PE(r'C:\Program Files (x86)\Rubies of Eventide\rez\Object.lto')

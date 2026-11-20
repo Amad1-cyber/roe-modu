@@ -1,4 +1,4 @@
-﻿import sys, struct, re
+import sys, struct, re
 sys.path.insert(0, sys.argv[1])
 import pefile, capstone
 dll, start, end = sys.argv[2], int(sys.argv[3], 16), int(sys.argv[4], 16)

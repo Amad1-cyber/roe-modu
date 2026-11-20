@@ -1,4 +1,4 @@
-﻿import re, struct, sys
+import re, struct, sys
 lines = open(sys.argv[1]).read().splitlines()
 msgs = {}
 for l in lines:

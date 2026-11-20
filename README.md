@@ -1,4 +1,4 @@
-﻿# ROE MODU
+# ROE MODU
 
 An open-source **server and control panel for Rubies of Eventide 0.95**, the 2003 Lithtech MMORPG whose official servers have been shut down.
 

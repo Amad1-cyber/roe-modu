@@ -1,4 +1,4 @@
-﻿# Notice
+# Notice
 
 This repository contains original code and documentation only, released under the MIT License (see `LICENSE`).
 

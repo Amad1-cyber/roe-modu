@@ -1,4 +1,4 @@
-﻿import sys
+import sys
 KEY_CLIENT_SEND = b"You know who lives in his own world."   # client -> server (cipher key1)
 KEY_SERVER_SEND = b"You know who is a blithering moron."   # server -> client (cipher key2)
 

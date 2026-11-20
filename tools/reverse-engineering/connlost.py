@@ -1,4 +1,4 @@
-﻿import sys, re, struct
+import sys, re, struct
 sys.path.insert(0, sys.argv[1])
 import pefile
 for rel in (r'rez\CShell.dll', r'Lithtech.exe'):

@@ -1,4 +1,4 @@
-﻿param([switch]$Check, [string]$GameDirectory)
+param([switch]$Check, [string]$GameDirectory)
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 Add-Type -AssemblyName System.Windows.Forms, System.Drawing

@@ -1,4 +1,4 @@
-﻿import sys, struct
+import sys, struct
 path = sys.argv[1]
 data = open(path, 'rb').read()
 sigs = {

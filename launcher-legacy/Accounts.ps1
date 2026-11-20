@@ -1,4 +1,4 @@
-﻿$accountFile = Join-Path $PSScriptRoot 'accounts.json'
+$accountFile = Join-Path $PSScriptRoot 'accounts.json'
 
 function Read-RoeAccounts {
     if (Test-Path -LiteralPath $accountFile) {
